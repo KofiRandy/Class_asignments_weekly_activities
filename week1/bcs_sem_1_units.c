@@ -1,10 +1,13 @@
 /*
-Name   : RANDY KOFI
+Name   : RANDY KOFI SIMIYU BARASA
 Adm No : BCS-05-0211/2026
 Course : Computer Science
 Unit   : Structured Programming And Algorithms
+Program: Display Units
 */
+
 #include<stdio.h>//scanf()//printf()
+
 int main(int argc, char** argv)
 {	printf("Zetech Unversity\n");
 	printf("Bachelor Of Science In Computer Science (BCS)\n");

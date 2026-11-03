@@ -1,7 +1,9 @@
 /*
-Name: RANDY KOFI
-Adm No: BCS-05-0211/2026
-Course: Computer Science
+Name   : RANDY KOFI SIMIYU BARASA
+Adm No : BCS-05-0211/2026
+Course : Computer Science
+Unit   : Structured Programming And Algorithms
+Program: Decision-Making
 */
 
 #include <stdio.h>

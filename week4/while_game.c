@@ -1,5 +1,5 @@
 /*
-Name   : RANDY KOFI
+Name   : RANDY KOFI SIMIYU BARASA
 Adm No : BCS-05-0211/2026
 Course : Computer Science
 Unit   : Structured Programming And Algorithms
@@ -41,8 +41,8 @@ int main(int argc, char** argv)
 		
 		
 	}    
-	printf("Congratulation");
-	printf("\nThe Total number of Attempts is:%d", attempt);
+	printf("Congratulation, you won!");
+	printf("\nThe Total number of Attempts is:%d\n", attempt);
 		
 	
 	

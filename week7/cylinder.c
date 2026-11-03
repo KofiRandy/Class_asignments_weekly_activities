@@ -1,3 +1,11 @@
+/*
+Name   : RANDY KOFI SIMIYU BARASA
+Adm No : BCS-05-0211/2026
+Course : Computer Science
+Unit   : Structured Programming And Algorithms
+Program: To calculate Area and Volume of a Cylinder
+*/
+
 #include <stdio.h>
 #define PI 3.14
 

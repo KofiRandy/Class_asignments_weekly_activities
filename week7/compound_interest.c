@@ -1,5 +1,5 @@
 /*
-Name   : RANDY KOFI
+Name   : RANDY KOFI SIMIYU BARASA
 Adm No : BCS-05-0211/2026
 Course : Computer Science
 Program: Compound Interest=CI

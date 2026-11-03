@@ -1,9 +1,9 @@
 /*
-  Name    : RANDY KOFI
+  Name    : RANDY KOFI SIMIYU BARASA
   Adm No  : BCS-05-0211/2026
   Course  : Computer Science
   Unit    : Structured Programming And Algorithms
-  Program : ATM Withdrawal 
+  Program : ATM Withdrawal using ONLY a while loop
 */
 
 #include <stdio.h>
